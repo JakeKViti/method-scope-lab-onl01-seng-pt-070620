@@ -1,3 +1,3 @@
 def catch_phrase(phrase)
-  returns phrase
+  return phrase
 end
